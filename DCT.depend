@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1569524897 source:/home-local/aluno/Downloads/DCT/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+	<string.h>
+
